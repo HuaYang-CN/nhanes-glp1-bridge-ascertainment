@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this release."
+type: software
+title: "NHANES GLP-1 Bridge Clinical Criteria Ascertainment: Analysis Code"
+version: "v0.1.0-rc1"
+license: MIT
+authors:
+  - family-names: Yang
+    given-names: Hua
+  - family-names: Li
+    given-names: Hua
