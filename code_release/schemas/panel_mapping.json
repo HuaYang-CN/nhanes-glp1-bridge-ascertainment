@@ -1,0 +1,352 @@
+[
+  {
+    "figure": "Figure_1",
+    "panel": "A",
+    "datum_id": "Figure_1A:C02-DESIGN-002",
+    "result_id": "C02-DESIGN-002",
+    "label": "Primary definition",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_1",
+    "panel": "A",
+    "datum_id": "Figure_1A:C02-DESIGN-005",
+    "result_id": "C02-DESIGN-005",
+    "label": "Expanded-proxy sensitivity",
+    "color": "grey",
+    "shape": "17",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_1",
+    "panel": "A",
+    "datum_id": "Figure_1A:C02-DESIGN-008",
+    "result_id": "C02-DESIGN-008",
+    "label": "HbA1c-exclusion sensitivity",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_1",
+    "panel": "B",
+    "datum_id": "Figure_1B:C02-DENOM-020",
+    "result_id": "C02-DENOM-020",
+    "label": "BMI >=27 + HbA1c 5.7 to <6.5%",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_1",
+    "panel": "B",
+    "datum_id": "Figure_1B:C02-DENOM-018",
+    "result_id": "C02-DENOM-018",
+    "label": "BMI >=35 kg/m2",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_1",
+    "panel": "B",
+    "datum_id": "Figure_1B:C02-DENOM-019",
+    "result_id": "C02-DENOM-019",
+    "label": "BMI >=30 + eGFR <60",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_1",
+    "panel": "B",
+    "datum_id": "Figure_1B:C02-DENOM-021",
+    "result_id": "C02-DENOM-021",
+    "label": "BMI >=27 + prior MI",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_1",
+    "panel": "B",
+    "datum_id": "Figure_1B:C02-DENOM-022",
+    "result_id": "C02-DENOM-022",
+    "label": "BMI >=27 + prior stroke",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_2",
+    "panel": "A",
+    "datum_id": "Figure_2A:C02-DIQ-003",
+    "result_id": "C02-DIQ-003",
+    "label": "Positive under both",
+    "color": "grey",
+    "shape": "18",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_2",
+    "panel": "A",
+    "datum_id": "Figure_2A:C02-DIQ-004",
+    "result_id": "C02-DIQ-004",
+    "label": "Measurement-only",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_2",
+    "panel": "A",
+    "datum_id": "Figure_2A:C02-DIQ-005",
+    "result_id": "C02-DIQ-005",
+    "label": "Diagnosis-proxy-only",
+    "color": "orange",
+    "shape": "17",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_2",
+    "panel": "A",
+    "datum_id": "Figure_2A:C02-DIQ-006",
+    "result_id": "C02-DIQ-006",
+    "label": "Negative under both",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_2",
+    "panel": "B",
+    "datum_id": "Figure_2B:C02-DIQ-007",
+    "result_id": "C02-DIQ-007",
+    "label": "Conditional measurement-only",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_2",
+    "panel": "C",
+    "datum_id": "Figure_2C:C02-PAIR-001",
+    "result_id": "C02-PAIR-001",
+    "label": "Measurement minus proxy",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_3",
+    "panel": "A",
+    "datum_id": "Figure_3A:C02-GLYC-009",
+    "result_id": "C02-GLYC-009",
+    "label": "HbA1c-only",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_3",
+    "panel": "A",
+    "datum_id": "Figure_3A:C02-GLYC-010",
+    "result_id": "C02-GLYC-010",
+    "label": "HbA1c or fasting glucose",
+    "color": "orange",
+    "shape": "17",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Figure_3",
+    "panel": "B",
+    "datum_id": "Figure_3B:C02-PAIR-002",
+    "result_id": "C02-PAIR-002",
+    "label": "Added fasting glucose",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S2",
+    "panel": "A",
+    "datum_id": "Supplementary_Figure_S2A:C02-DIQ-007",
+    "result_id": "C02-DIQ-007",
+    "label": "D0: recorded DIQ160 history",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S2",
+    "panel": "A",
+    "datum_id": "Supplementary_Figure_S2A:C02-DIQ-028",
+    "result_id": "C02-DIQ-028",
+    "label": "D1: exclude Borderline",
+    "color": "blue",
+    "shape": "17",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S2",
+    "panel": "A",
+    "datum_id": "Supplementary_Figure_S2A:C02-DIQ-042",
+    "result_id": "C02-DIQ-042",
+    "label": "D2: assumed history signal",
+    "color": "blue",
+    "shape": "15",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S2",
+    "panel": "A",
+    "datum_id": "Supplementary_Figure_S2A:C02-DIQ-063",
+    "result_id": "C02-DIQ-063",
+    "label": "D3: retain structural unknown",
+    "color": "blue",
+    "shape": "18",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S3",
+    "panel": "A",
+    "datum_id": "Supplementary_Figure_S3A:C02-AGE-001",
+    "result_id": "C02-AGE-001",
+    "label": "E0: public age80",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S3",
+    "panel": "A",
+    "datum_id": "Supplementary_Figure_S3A:C02-AGE-019",
+    "result_id": "C02-AGE-019",
+    "label": "E1: assumed age85",
+    "color": "blue",
+    "shape": "17",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S3",
+    "panel": "B",
+    "datum_id": "Supplementary_Figure_S3B:C02-GLYC-012",
+    "result_id": "C02-GLYC-012",
+    "label": "HbA1c-only",
+    "color": "blue",
+    "shape": "16",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S3",
+    "panel": "B",
+    "datum_id": "Supplementary_Figure_S3B:C02-GLYC-013",
+    "result_id": "C02-GLYC-013",
+    "label": "HbA1c or fasting glucose",
+    "color": "orange",
+    "shape": "17",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S3",
+    "panel": "B",
+    "datum_id": "Supplementary_Figure_S3B:C02-GLYC-014",
+    "result_id": "C02-GLYC-014",
+    "label": "Fasting-glucose gain-only",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "estimate"
+  },
+  {
+    "figure": "Supplementary_Figure_S1",
+    "panel": "A",
+    "datum_id": "S1A:flow:All_public",
+    "result_id": "C03B-SUPPORT-FLOW-001",
+    "label": "Public NHANES participants",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "nonmissing_n"
+  },
+  {
+    "figure": "Supplementary_Figure_S1",
+    "panel": "A",
+    "datum_id": "S1A:flow:Age20",
+    "result_id": "C03B-SUPPORT-FLOW-002",
+    "label": "Age >=20 years",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "nonmissing_n"
+  },
+  {
+    "figure": "Supplementary_Figure_S1",
+    "panel": "A",
+    "datum_id": "S1A:flow:Medicare",
+    "result_id": "C03B-SUPPORT-FLOW-003",
+    "label": "Reported Medicare coverage",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "nonmissing_n"
+  },
+  {
+    "figure": "Supplementary_Figure_S1",
+    "panel": "A",
+    "datum_id": "S1A:flow:Positive_phlebotomy_weight",
+    "result_id": "C03B-SUPPORT-FLOW-004",
+    "label": "Positive phlebotomy weight",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "nonmissing_n"
+  },
+  {
+    "figure": "Supplementary_Figure_S1",
+    "panel": "A",
+    "datum_id": "S1A:flow:No_reported_diabetes",
+    "result_id": "C03B-SUPPORT-FLOW-005",
+    "label": "No reported diabetes",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "nonmissing_n"
+  },
+  {
+    "figure": "Supplementary_Figure_S1",
+    "panel": "A",
+    "datum_id": "S1A:flow:BMI_observed",
+    "result_id": "C03B-SUPPORT-FLOW-006",
+    "label": "Observed BMI",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "nonmissing_n"
+  },
+  {
+    "figure": "Supplementary_Figure_S1",
+    "panel": "A",
+    "datum_id": "S1A:flow:Primary_known",
+    "result_id": "C03B-SUPPORT-FLOW-007",
+    "label": "Primary status ascertainable",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "nonmissing_n"
+  },
+  {
+    "figure": "Supplementary_Figure_S1",
+    "panel": "A",
+    "datum_id": "S1A:flow:Proxy_comparison_known",
+    "result_id": "C03B-SUPPORT-FLOW-008",
+    "label": "D0 comparison status ascertainable",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "nonmissing_n"
+  },
+  {
+    "figure": "Supplementary_Figure_S1",
+    "panel": "A",
+    "datum_id": "S1A:fasting",
+    "result_id": "C02-DENOM-017",
+    "label": "Fasting sensitivity population",
+    "color": "grey",
+    "shape": "15",
+    "plotted_field": "n"
+  }
+]

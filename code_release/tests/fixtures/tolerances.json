@@ -1,0 +1,19 @@
+{
+  "estimate": 1e-08,
+  "se": 1e-08,
+  "lower": 1e-06,
+  "upper": 1e-06,
+  "lower_ci": 1e-06,
+  "upper_ci": 1e-06,
+  "weighted_denominator": 1e-06,
+  "p_value": 1e-12,
+  "p_value_Holm": 1e-12,
+  "count": 0,
+  "parser_round_trip": 1e-12,
+  "other_numeric": 1e-08,
+  "authority": [
+    "Stage02B2 code09_final_quality_control.py positive-parent B0 checks (estimate/CI1e-6, SE1e-8)",
+    "Stage03A code04_validate_outputs.R estimate/SE1e-8, CI/weighted denominator1e-6; code07_parser_resolution.R parser1e-12"
+  ],
+  "note": "Estimate tolerance1e-8 is the existing stricter Stage03A/full-precision convention; counts and categorical/status fields exact; no post-result change permitted."
+}

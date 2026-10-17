@@ -1,0 +1,3 @@
+# License decision pending
+
+No software license has been selected or approved by the authors. This local candidate does not claim MIT, GPL or another grant. Before public redistribution, the authors must confirm rights to their scientific source adaptations and new runner/adapter code, choose an appropriate license, check compatibility of dependencies and decide the reuse terms consistent with journal expectations. Imported R packages and any future python-docx dependency are not bundled; no third-party source archive, font, binary or private research record is distributed. This is a decision note, not a license or legal opinion.

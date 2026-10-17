@@ -1,0 +1,7 @@
+# Environment specification
+
+The verified scientific environment is Windows, R 4.5.1, survey 4.4-2, haven 2.5.5, dplyr 1.1.4, readr 2.1.5 and tibble 3.3.0. The runner checks these exact direct package versions and the Windows English_United States.utf8 character locale. The runner explicitly sets LANG and LC_ALL to this verified locale in each R child process before argument decoding; it does not change global environment variables. Process-local library configuration is optional; existing libraries are used without installation or updates. Base/recommended R functions include stats, grid, grDevices, utils, tools and methods. survey's actual transitive loaded environment is recorded separately for each execution module. This is an environment specification and recorded version set, not an invented renv lock.
+
+Python 3.12 or later is used for standard-library orchestration, hashing, registry assembly and independent comparisons. Optional figure generation uses R grid/grDevices and readr and the existing Times New Roman system font; no font files are distributed. Native publication Word/table regeneration is not part of this tested runner. A later Word export would need python-docx and independent rendering QA; no successful final R1 Word recreation is claimed here.
+
+Supported/tested system claims are limited to the actual Windows reproduction documented with this candidate. No Linux/macOS or other R/package version testing is claimed. No network operation, automatic download, package installer or global environment/library modification occurs.

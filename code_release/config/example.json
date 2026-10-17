@@ -1,0 +1,7 @@
+{
+  "PROJECT_ROOT": "/path/to/your/workspace",
+  "RAW_DATA_DIR": "raw_inputs",
+  "OUTPUT_DIR": "new_run_outputs",
+  "R_LIBRARY_DIR": "/path/to/existing/R/library",
+  "R_SCRIPT": "/path/to/existing/Rscript.exe"
+}

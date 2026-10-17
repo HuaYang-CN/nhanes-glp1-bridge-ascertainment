@@ -1,0 +1,206 @@
+{
+  "version": "v0.1.0-rc1",
+  "state": "LOCAL_CANDIDATE_NOT_PUBLISHED",
+  "files": [
+    {
+      "path": "config/example.json",
+      "bytes": 217,
+      "sha256": "ea5c2e53a4343ce73013005f63650546826f0c243dfa2fc30496376d5766c59a"
+    },
+    {
+      "path": "docs/ENVIRONMENT.md",
+      "bytes": 1576,
+      "sha256": "4163dad015c4cf0293b6fd48dea7648d8208f4b39f2d17b8885ae4b1010f329f"
+    },
+    {
+      "path": "docs/KNOWN_LIMITATIONS.md",
+      "bytes": 1447,
+      "sha256": "ca9fff5e270d4f84ba0565db880b1cfba0ee79a9db9113608e7adf80d3e8638b"
+    },
+    {
+      "path": "docs/LICENSE_DECISION.md",
+      "bytes": 641,
+      "sha256": "441bfaf503961d6a7bd8f84e28e9f56dceff26bf4465010fc97ed1ab07921568"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4895,
+      "sha256": "d0869034f28a5e4d1f1831a2cb173b4f7e5e741062be2beb3a598aa744f0ce90"
+    },
+    {
+      "path": "run.py",
+      "bytes": 7945,
+      "sha256": "f82ba0830d15b4bf894e2e0561fe0541de2078ea7240b76d9644d7543bbf8089"
+    },
+    {
+      "path": "schemas/input_variables.csv",
+      "bytes": 1704,
+      "sha256": "3c574e7d0574c0f65a5498c397bbe7e845d5556f1c14fc39ea25b1805bff5b25"
+    },
+    {
+      "path": "schemas/panel_mapping.json",
+      "bytes": 9225,
+      "sha256": "fbaacf82006653c1a19a4564f8666692e64c85937e2c711b5cc0276264c350d8"
+    },
+    {
+      "path": "schemas/public_components.csv",
+      "bytes": 1745,
+      "sha256": "24b244f0c5b2d9d32f97434d0e94094f269d00f4deda7ebf6d53bdb1a1056089"
+    },
+    {
+      "path": "schemas/registry_mapping.json",
+      "bytes": 347279,
+      "sha256": "690e4d63e4c374eef36573e1481ffeb1e4a6490876a2a8bce439ff13d472fa71"
+    },
+    {
+      "path": "schemas/table1_variables.csv",
+      "bytes": 6827,
+      "sha256": "11854fb68654c9996fccc381112a3542b7382f8df8f7edf0f757c1d3e91ce0cb"
+    },
+    {
+      "path": "schemas/table_layout.json",
+      "bytes": 160823,
+      "sha256": "bc22b72f0436e158d08b822624371c1f8026d1b4cf61d5cb9a780a4f243dee98"
+    },
+    {
+      "path": "src/a3/01_preflight_and_design.R",
+      "bytes": 3210,
+      "sha256": "17778481a772c1cc49defbdf96fdd22bb58bb0f51cb8d89d76ba879bd7b2afcc"
+    },
+    {
+      "path": "src/a3/02_generate_table1.R",
+      "bytes": 5652,
+      "sha256": "7747b8e4bfa7f5f5ac805140d3bd1e3c5203de03810499753376a16568b9dadf"
+    },
+    {
+      "path": "src/a3/03_generate_completeness.R",
+      "bytes": 2780,
+      "sha256": "150d7a157a8111f21e5de0e93c061332c48493184143d09420b68dbe3d0e8b7c"
+    },
+    {
+      "path": "src/a3/04_validate_outputs.R",
+      "bytes": 7452,
+      "sha256": "cbc76ef5d880547c67e091c9578af432008084f32251bec9491918101a4a7f2f"
+    },
+    {
+      "path": "src/a3/common.R",
+      "bytes": 2008,
+      "sha256": "1aa4fcca499547151b3137fffb50415d3536e7c9aa205b00181a8f93591acd24"
+    },
+    {
+      "path": "src/b1/01_build_analysis_dataset.R",
+      "bytes": 9917,
+      "sha256": "1c799b19bed5613620897611b498e848d2f1362ec20289b0d9bbfb9ce1874c7a"
+    },
+    {
+      "path": "src/b1/02_reproduce_primary_results_v4.R",
+      "bytes": 13828,
+      "sha256": "279ebab13790dfde1be6dc96f7ef6bf7f89eb39c4bd060974d53d77f7aca1e3f"
+    },
+    {
+      "path": "src/b1/03_sensitivity_fasting_glucose.R",
+      "bytes": 3983,
+      "sha256": "1cb8b4d435a186c2a1d8c94473081d550e39d8d5eaba03d8c6b791caf0ce0c39"
+    },
+    {
+      "path": "src/b1/04_ascertainment_gap_conditional.R",
+      "bytes": 1978,
+      "sha256": "787cd3521901fcaefabd39c64453d142a8e852c68b5d2ae9f57c05ce9ada2e73"
+    },
+    {
+      "path": "src/b2/01_design.R",
+      "bytes": 4758,
+      "sha256": "334fbab92b162bd9fcfb6f977d86ca8b52237ecec76b44e128dd47048bf255dd"
+    },
+    {
+      "path": "src/b2/02_diq.R",
+      "bytes": 4857,
+      "sha256": "13b2e073960a12295bee134ee6a3323f3d31dca250aecff873eb754a39a71e9b"
+    },
+    {
+      "path": "src/b2/03_denominators.R",
+      "bytes": 6825,
+      "sha256": "845aef4b5520ca4c24df8d80b99af1047129a374541ecf8d59a645598361e18b"
+    },
+    {
+      "path": "src/b2/04_age.R",
+      "bytes": 4145,
+      "sha256": "6cb039204da2ebfe3b80e98bd561ff9b7f4287822a46b8b816080f3cebb53431"
+    },
+    {
+      "path": "src/b2/05_glycemic.R",
+      "bytes": 6217,
+      "sha256": "4808909dd469d27f759ab683b04784f806d7c2a7149f01581e1f4809e20b757a"
+    },
+    {
+      "path": "src/b2/06_paired.R",
+      "bytes": 3616,
+      "sha256": "548c7dfcc89fca7981ddce5daff1dfae0dd4617ba547932b9f554a1b72d58a21"
+    },
+    {
+      "path": "src/b2/07_subgroups.R",
+      "bytes": 4446,
+      "sha256": "5d27288e0370c1f9ae37cda9f7108748ec66f595f0c143970cc732f3ef3bc0db"
+    },
+    {
+      "path": "src/b2/common.R",
+      "bytes": 9864,
+      "sha256": "d475e95d0b118ecd1fcca3b58afefe82f30ffef75422374a396cd9cfc1f065c2"
+    },
+    {
+      "path": "src/input_preflight.R",
+      "bytes": 1539,
+      "sha256": "6b5421d269601a3b95b908524b667b77e4c39b5b298c5938305e5a0e960f018e"
+    },
+    {
+      "path": "src/membership_bridge.R",
+      "bytes": 2179,
+      "sha256": "1b5a2a76482966f72ac7bb772962212d34832ca8097b3ed7afe579e8b51d465b"
+    },
+    {
+      "path": "src/presentation/03_draw_figures.R",
+      "bytes": 7722,
+      "sha256": "64014b5c97436e3951fae4a6a03f37d0c5e6d87647bd4a760894d3f7c96f8df8"
+    },
+    {
+      "path": "src/registry_adapter.py",
+      "bytes": 6987,
+      "sha256": "11a6c13935fb6dfb4a3991c535a9502e042c20dcc904054514422df552580800"
+    },
+    {
+      "path": "src/run_module.R",
+      "bytes": 1261,
+      "sha256": "ae6861b12ba8576d34c880840be10a537ff1ef5ca6b4d93c041754f51b32b79f"
+    },
+    {
+      "path": "src/runtime.R",
+      "bytes": 3397,
+      "sha256": "208cee4a019b86765e95499f743344f9928855f28a9e91e511b6218980691812"
+    },
+    {
+      "path": "tests/concordance.py",
+      "bytes": 3863,
+      "sha256": "b52a43e9a7f731fd7ea3fb8e0bead05854a561568679d18821dafa2a3d592e61"
+    },
+    {
+      "path": "tests/fixtures/locked_numerical_reference.csv",
+      "bytes": 592119,
+      "sha256": "efcb4f32cdcdcb2e23280e87cc4de3596c1f916ed1406501d98b40421062d67a"
+    },
+    {
+      "path": "tests/fixtures/table1_completeness_reference.csv",
+      "bytes": 57575,
+      "sha256": "7fd69c216c06bfdde8c9469ade70667afee04682db062b05a3f7660ca98abfa8"
+    },
+    {
+      "path": "tests/fixtures/tolerances.json",
+      "bytes": 705,
+      "sha256": "791bd6364665d4ab4fff9e496549c2c8d685f7eacc96afc56187928665820a21"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 62,
+      "sha256": "185cb35a6212391830610a6acdab8f67038567bf4ecea0cfff4f5e75dc883d3c"
+    }
+  ]
+}

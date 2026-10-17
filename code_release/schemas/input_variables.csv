@@ -1,0 +1,39 @@
+﻿component,variable,label
+DEMO_L,SEQN,Respondent sequence number
+DEMO_L,RIDAGEYR,Age in years at screening
+DEMO_L,RIAGENDR,Gender
+DEMO_L,RIDRETH3,Race/Hispanic origin w/ NH Asian
+DEMO_L,INDFMPIR,Ratio of family income to poverty
+DEMO_L,SDMVSTRA,Masked variance pseudo-stratum
+DEMO_L,SDMVPSU,Masked variance pseudo-PSU
+HIQ_L,SEQN,Respondent sequence number
+HIQ_L,HIQ032B,Covered by Medicare
+HIQ_L,HIQ032D,Covered by Medicaid
+BMX_L,SEQN,Respondent sequence number
+BMX_L,BMXBMI,Body Mass Index (kg/m**2)
+DIQ_L,SEQN,Respondent sequence number
+DIQ_L,DIQ010,Doctor told you have diabetes
+DIQ_L,DIQ160,Ever told you have prediabetes
+MCQ_L,SEQN,Respondent sequence number
+MCQ_L,MCQ160B,Ever told had congestive heart failure
+MCQ_L,MCQ160E,Ever told you had heart attack
+MCQ_L,MCQ160F,Ever told you had a stroke
+KIQ_U_L,SEQN,Respondent sequence number
+KIQ_U_L,KIQ022,Ever told you had weak/failing kidneys?
+BPQ_L,SEQN,Respondent sequence number
+BPQ_L,BPQ150,Taking high blood pressure medication
+BPXO_L,SEQN,Respondent sequence number
+BPXO_L,BPXOSY1,Systolic - 1st oscillometric reading
+BPXO_L,BPXOSY2,Systolic - 2nd oscillometric reading
+BPXO_L,BPXOSY3,Systolic - 3rd oscillometric reading
+BPXO_L,BPXODI1,Diastolic - 1st oscillometric reading
+BPXO_L,BPXODI2,Diastolic - 2nd oscillometric reading
+BPXO_L,BPXODI3,Diastolic - 3rd oscillometric reading
+GHB_L,SEQN,Sequence number
+GHB_L,WTPH2YR,Phlebotomy 2 Year Weight
+GHB_L,LBXGH,Glycohemoglobin (%)
+BIOPRO_L,SEQN,Respondent Sequence Number
+BIOPRO_L,LBXSCR,"Creatinine, refrigerated serum (mg/dL)"
+GLU_L,SEQN,Respondent sequence number
+GLU_L,WTSAF2YR,Fasting Subsample 2 Year MEC Weight
+GLU_L,LBXGLU,Fasting Glucose (mg/dL)
